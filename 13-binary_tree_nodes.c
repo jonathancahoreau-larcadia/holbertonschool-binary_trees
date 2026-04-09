@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "binary_trees.h"
 /**
- * binary_tree_leaves - trouve le nombre totale d'une feuille
+ * binary_tree_nodes - trouve le nombre totale d'une feuille
  * @tree: pointeur sur structure
  *
  * Return: (leaves) la taille de l'arbre ou (0) si échec, (1); si feuille
